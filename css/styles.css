@@ -1,0 +1,20 @@
+.column {
+  float: left;
+
+}
+
+.column-right {
+
+  float: right;
+
+}
+
+.heading h1 {
+
+  color: pink;
+}
+
+.heading p {
+  background-color: grey;
+  color: white;
+}
