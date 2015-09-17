@@ -18,3 +18,13 @@
   background-color: grey;
   color: white;
 }
+
+ul {
+    list-style-type: none;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  img {
+    display: none;
+  }
+}
